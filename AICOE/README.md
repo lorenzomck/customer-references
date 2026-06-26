@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" alt="Mona the Octocat" width="140"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://octodex.github.com/images/rubyducktocat.png" alt="Rubber Duck Octocat" width="140"/>
+  <img src="https://octodex.github.com/images/yaktocat.png" alt="Yaktocat" width="140"/>
 </p>
 
 # AI Centre of Excellence (AICOE) Starter Pack
