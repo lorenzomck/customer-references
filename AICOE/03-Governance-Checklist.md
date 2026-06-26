@@ -1,6 +1,6 @@
 # AICOE Governance Checklist
 
-Use this checklist when evaluating, approving, or reviewing AI use cases and tools.
+Use this checklist as a template when evaluating, approving, or reviewing AI use cases and tools in your organization.
 
 ---
 
@@ -16,7 +16,7 @@ Use this checklist when evaluating, approving, or reviewing AI use cases and too
 ## 2. Privacy & Data Protection
 
 - [ ] No personal data is sent to external AI services without approval
-- [ ] Data classification of inputs/outputs is documented (public, internal, confidential, restricted)
+- [ ] Data classification of inputs/outputs is documented (public, organization-only, confidential, restricted)
 - [ ] Data residency requirements are met
 - [ ] Retention and deletion policies are defined
 - [ ] Privacy impact assessment completed (if required)
@@ -57,7 +57,7 @@ Use this checklist when evaluating, approving, or reviewing AI use cases and too
 | Level | Examples | Approval |
 |-------|----------|----------|
 | **Low** | Code completion, documentation drafting, test generation | AICOE Lead |
-| **Medium** | Customer-facing content generation, data analysis with internal data | Governance Board |
+| **Medium** | Customer-facing content generation, data analysis with organizational data | Governance Board |
 | **High** | Decisions affecting people, use of restricted data, autonomous actions | Executive + Legal |
 
 ---
@@ -70,4 +70,4 @@ Use this checklist when evaluating, approving, or reviewing AI use cases and too
 
 ---
 
-*Review and update this checklist quarterly. Adapt risk levels to your organization's risk appetite.*
+*Review and update this checklist quarterly. Adapt approval roles and risk levels to your organization's risk appetite.*

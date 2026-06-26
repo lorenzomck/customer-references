@@ -1,6 +1,6 @@
 # GitHub Copilot Adoption Playbook
 
-A practical guide for rolling out GitHub Copilot internally.
+A practical starter guide for rolling out GitHub Copilot in your organization.
 
 ---
 
@@ -24,7 +24,7 @@ Start with high-value, low-risk use cases to build confidence and demonstrate RO
 ### Tier 3 — Advanced (Requires Governance Review)
 - **Coding agents**: Autonomous multi-step code changes
 - **Custom instructions**: Organization-specific prompts and rules
-- **MCP integrations**: Connect Copilot to internal tools and data sources
+- **MCP integrations**: Connect Copilot to your organization's tools and data sources
 
 ---
 
@@ -53,7 +53,7 @@ Start with high-value, low-risk use cases to build confidence and demonstrate RO
 ## 3. Training Plan
 
 ### Phase 1: Awareness (Week 1–2)
-- Announce rollout and share this playbook
+- Announce the rollout and share this playbook
 - Host a 30-minute intro session (what Copilot does, what it doesn't)
 - Share the [GitHub Copilot docs](https://docs.github.com/en/copilot)
 
@@ -66,12 +66,12 @@ Start with high-value, low-risk use cases to build confidence and demonstrate RO
 - Office hours (bi-weekly, 30 min)
 - Share team success stories and patterns
 - Introduce advanced features (agents, custom instructions, CLI)
-- Pair champions with teams that haven't adopted yet
+- Pair champions with teams that have not adopted yet
 
 ### Training Resources
 - [GitHub Copilot Chat – Responsible Use](https://docs.github.com/en/enterprise-cloud@latest/copilot/responsible-use/chat)
 - [GitHub Copilot Agents – Responsible Use](https://docs.github.com/en/enterprise-cloud@latest/copilot/responsible-use/agents)
-- Internal prompt library *(create and maintain in a shared repo)*
+- Shared prompt library *(create and maintain in a shared repo)*
 
 ---
 
@@ -93,7 +93,7 @@ Start with high-value, low-risk use cases to build confidence and demonstrate RO
 | Incidents / policy violations | Incident tracker | Ongoing |
 
 ### Review Cycle
-- **Monthly**: AICOE reviews metrics and feedback, adjusts training
+- **Monthly**: Your AICOE reviews metrics and feedback, then adjusts training
 - **Quarterly**: Report to leadership on adoption, value, and next steps
 
 ---
@@ -120,4 +120,4 @@ Start with high-value, low-risk use cases to build confidence and demonstrate RO
 
 ---
 
-*Adapt timelines and metrics to your organization's size and risk appetite. Update this playbook after each rollout phase.*
+*Adapt timelines, governance checkpoints, and metrics to your organization's size and risk appetite. Update this playbook after each rollout phase.*

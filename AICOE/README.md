@@ -1,24 +1,24 @@
 # AI Centre of Excellence (AICOE) Starter Pack
 
-A practical set of resources to launch and support an internal AI Centre of Excellence.
+A starter pack to help you establish your AI Centre of Excellence.
 
 ## Contents
 
 | # | Document | Purpose |
 |---|----------|---------|
-| 1 | [AICOE Charter](./01-AICOE-Charter.md) | Purpose, scope, principles, governance, and operating model |
-| 2 | [Resource Hub Index](./02-Resource-Hub-Index.md) | Categorized links to public and internal resources |
-| 3 | [Governance Checklist](./03-Governance-Checklist.md) | Responsible AI, privacy, security, approvals, and review |
-| 4 | [Copilot Adoption Playbook](./04-Copilot-Adoption-Playbook.md) | Internal rollout guide for GitHub Copilot |
-| 5 | [Leadership Deck Outline](./05-Leadership-Deck-Outline.md) | Slide-by-slide outline for executive presentation |
+| 1 | [AICOE Charter](./01-AICOE-Charter.md) | Template for purpose, scope, principles, governance, and operating model |
+| 2 | [Resource Hub Index](./02-Resource-Hub-Index.md) | Categorized links to public resources and starter references |
+| 3 | [Governance Checklist](./03-Governance-Checklist.md) | Template for responsible AI, privacy, security, approvals, and review |
+| 4 | [Copilot Adoption Playbook](./04-Copilot-Adoption-Playbook.md) | Starter guide for rolling out GitHub Copilot in your organization |
+| 5 | [Leadership Deck Outline](./05-Leadership-Deck-Outline.md) | Slide-by-slide outline for presenting your AICOE to leadership |
 
 ## How to Use
 
-1. **Starting an AICOE?** Read the Charter first, then the Resource Hub.
-2. **Rolling out Copilot?** Follow the Adoption Playbook.
-3. **Need governance sign-off?** Use the Governance Checklist.
-4. **Presenting to leadership?** Build your deck from the Outline.
+1. **Starting an AICOE?** Begin with the Charter, then use the Resource Hub to identify helpful references.
+2. **Rolling out Copilot?** Use the Adoption Playbook to plan your rollout.
+3. **Need governance sign-off?** Adapt and apply the Governance Checklist.
+4. **Presenting to leadership?** Build your deck from the Leadership Deck Outline.
 
 ## Contributing
 
-Update these documents as the AICOE evolves. All materials are markdown for easy collaboration and version control.
+Customize these documents as your AICOE evolves. All materials are markdown for easy collaboration and version control.
