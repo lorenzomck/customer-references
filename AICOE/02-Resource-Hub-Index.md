@@ -1,6 +1,6 @@
 # AICOE Resource Hub Index
 
-A categorized index of public references and starter assets to help your organization establish and run an AI Centre of Excellence.
+A categorized index of public references and starter assets to help your organization establish and run an AI Center of Excellence.
 
 ---
 
@@ -10,7 +10,7 @@ A categorized index of public references and starter assets to help your organiz
 |----------|------|------|
 | Microsoft CAF: Establish an AI Center of Excellence | Guide | [learn.microsoft.com](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ai/center-of-excellence) |
 | KPMG: Executive Guide to Establishing an AI CoE | PDF | [kpmg.com](https://kpmg.com/kpmg-us/content/dam/kpmg/pdf/2024/executive-guide-establishing-ai-center-excellence.pdf) |
-| a21.ai: AI Centre of Excellence | Overview | [a21.ai/coe](https://a21.ai/coe/) |
+| a21.ai: AI Center of Excellence | Overview | [a21.ai/coe](https://a21.ai/coe/) |
 | Microsoft AI CoE Partner Assets | Collection | [partner.microsoft.com](https://partner.microsoft.com/en-us/asset/collection/ai-coe) |
 | AICOE Charter Template | Document | [01-AICOE-Charter.md](./01-AICOE-Charter.md) |
 

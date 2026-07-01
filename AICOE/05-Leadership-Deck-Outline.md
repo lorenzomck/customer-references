@@ -1,6 +1,6 @@
-# Champion's Guide: Pitching an AI Centre of Excellence to Leadership
+# Champion's Guide: Pitching an AI Center of Excellence to Leadership
 
-This deck outline is written from the perspective of an internal champion — someone who has seen the potential of AI tools firsthand and is now making the case to their company's leadership to formalize an AI Centre of Excellence.
+This deck outline is written from the perspective of an internal champion — someone who has seen the potential of AI tools firsthand and is now making the case to their company's leadership to formalize an AI Center of Excellence.
 
 Customize the bracketed placeholders and speaker notes to fit your company, then build into slides.
 
@@ -8,7 +8,7 @@ Customize the bracketed placeholders and speaker notes to fit your company, then
 
 ## Slide 1: Title
 
-- **Proposal: Establishing Our AI Centre of Excellence**
+- **Proposal: Establishing Our AI Center of Excellence**
 - Subtitle: A structured path to responsible AI adoption at scale
 - Presented by: [Your Name], [Your Role]
 - Date: [Date]
@@ -30,7 +30,7 @@ Customize the bracketed placeholders and speaker notes to fit your company, then
 
 ## Slide 3: What I'm Proposing
 
-- Establish a lightweight AI Centre of Excellence (AICOE)
+- Establish a lightweight AI Center of Excellence (AICOE)
 - **Not** a large team or a bureaucracy — a small coordination function
 - Purpose: enable teams to adopt AI responsibly, fast, and with guardrails
 - Four focus areas: Strategy · Governance · Enablement · Delivery

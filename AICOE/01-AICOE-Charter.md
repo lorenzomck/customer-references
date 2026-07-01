@@ -1,10 +1,10 @@
-# AI Centre of Excellence (AICOE) Charter
+# AI Center of Excellence (AICOE) Charter
 
 Use this charter as a template for your organization. Customize the language, roles, and operating model to fit your structure, priorities, and risk profile.
 
 ## Purpose
 
-Establish a cross-functional AI Centre of Excellence to accelerate responsible AI adoption, build organizational capability, and deliver measurable business value through AI-enabled solutions.
+Establish a cross-functional AI Center of Excellence to accelerate responsible AI adoption, build organizational capability, and deliver measurable business value through AI-enabled solutions.
 
 ## Scope
 

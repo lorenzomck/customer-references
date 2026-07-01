@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="AI Centre of Excellence - Starter Pack for Responsible AI Adoption" width="100%"/>
+  <img src="./assets/banner.svg" alt="AI Center of Excellence - Starter Pack for Responsible AI Adoption" width="100%"/>
 </p>
 
 <p align="center">
   <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" alt="Mona the Octocat" width="140"/>
 </p>
 
-<h1 align="center">AI Centre of Excellence (AICOE) Starter Pack</h1>
+<h1 align="center">AI Center of Excellence (AICOE) Starter Pack</h1>
 
-A starter pack to help you establish your AI Centre of Excellence.
+A starter pack to help you establish your AI Center of Excellence.
 
 ## Contents
 
